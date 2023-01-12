@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/121406618/210001619-a03a9342-5dc3-48d9-a56a-269682a6bcd3.png)
 
 ## Changelog
-### v1.2.0 (10/01/2023)
+### v1.2.0 (12/01/2023)
 
 ~ It gives you extra ROBUX every time you win
 
